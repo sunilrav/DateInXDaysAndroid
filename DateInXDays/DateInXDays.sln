@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateInXDays", "DateInXDays\DateInXDays.csproj", "{4C5DFFC2-A9CA-4C8C-8A81-1158FE9CE283}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C5DFFC2-A9CA-4C8C-8A81-1158FE9CE283}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5DFFC2-A9CA-4C8C-8A81-1158FE9CE283}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5DFFC2-A9CA-4C8C-8A81-1158FE9CE283}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5DFFC2-A9CA-4C8C-8A81-1158FE9CE283}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DateInXDays\DateInXDays.csproj
+	EndGlobalSection
+EndGlobal

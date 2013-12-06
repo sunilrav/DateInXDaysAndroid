@@ -1,0 +1,13 @@
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\bin\Debug\DateInXDays.dll
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\bin\Debug\DateInXDays.pdb
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\bin\Debug\DateInXDays.dll.mdb
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\bin\Debug\DateInXDays.DateInXDays.apk
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\bin\Debug\DateInXDays.DateInXDays-Signed.apk
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\DateInXDays.dll
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\DateInXDays.pdb
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\android\bin\DateInXDays.DateInXDays.apk
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\res\layout\main.xml
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\res\values\strings.xml
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\res\drawable\icon.png
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\R.cs.flag
+C:\Users\sravulapalli\Documents\Code\LOCAL\Xamarin\DateInXDays\DateInXDays\obj\Debug\uploadflags.txt
