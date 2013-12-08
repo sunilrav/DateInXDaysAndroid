@@ -8,7 +8,7 @@ using Android.OS;
 
 namespace DateInXDays
 {
-	[Activity (Label = "DateInXDays", MainLauncher = true)]
+	[Activity (Label = "Date in X Days", MainLauncher = true)]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate (Bundle bundle)
