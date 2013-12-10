@@ -1,15 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DateInXDays\Properties\AndroidManifest.xml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DateInXDays\Properties\AssemblyInfo.cs">
     <Files>
       <File FileName="DateInXDays\MainActivity.cs" Line="10" Column="2" />
-      <File FileName="DateInXDays\Properties\AssemblyInfo.cs" Line="14" Column="33" />
-      <File FileName="DateInXDays\Properties\AndroidManifest.xml" Line="5" Column="12" />
+      <File FileName="DateInXDays\Properties\AssemblyInfo.cs" Line="17" Column="66" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.DateInXDays MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" />
+  <MonoDevelop.Ide.ItemProperties.DateInXDays MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="emulator-5554" AndroidDeviceId-Release="emulator-5554" />
 </Properties>

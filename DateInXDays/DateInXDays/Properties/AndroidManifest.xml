@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="DateInXDays.DateInXDays">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="sr.sunilrav.dateinxdays">
 	<uses-sdk />
 	<application android:label="DateInXDays" android:icon="@drawable/dateinxdaysicon" android:debuggable="false"></application>
-</manifest> 
+</manifest>
